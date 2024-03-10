@@ -1,6 +1,6 @@
 # ProdLDA in Short Text 🚀
 
-Welcome to ProdLDA, a powerful Python implementation of the ProdLDA algorithm! ProdLDA stands for Product of Experts Latent Dirichlet Allocation, a cutting-edge extension of Latent Dirichlet Allocation (LDA) for modeling topic interactions.
+Welcome to ProdLDA, a powerful Python implementation of the ProdLDA algorithm! ProdLDA stands for Product of Experts Latent Dirichlet Allocation that treat with short text analysis, a cutting-edge extension of Latent Dirichlet Allocation (LDA) for modeling topic interactions.
 
 ## 🛠️ Installation
 
